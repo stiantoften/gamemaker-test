@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>var gg = 0;
+            <string>var gag = 0;
 </string>
           </argument>
         </arguments>
